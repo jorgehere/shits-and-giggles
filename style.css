@@ -1,4 +1,7 @@
 body{
+font-family: Arial, sans-serif;
+font-style: italic;
+font-weight: normal;
 font-size: 25pt;
 border: 20px double blue;
 color: white;
