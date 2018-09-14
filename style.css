@@ -9,6 +9,9 @@ background-color: black;
 text-align: center;
 text-indent: 12px;
 }
+section{
+width: 500;
+float: left;}
 
 p.second{font-size: 10pt;}
 
