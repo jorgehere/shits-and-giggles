@@ -12,6 +12,11 @@ text-indent: 12px;
 section{
 width: 500;
 float: left;}
+nav{
+width: 200px;
+float: left;
+margin-top: 12px;
+margin-right: 10px}
 
 p.second{font-size: 10pt;}
 
